@@ -1,0 +1,16 @@
+table, td, th{border: 1px solid blue; text-align: center;}
+
+body{background-image: url("../image/fon.jpg"  );
+
+}
+
+p{font-size: 15pt;
+color: cian;
+}
+#est{letter-spacing: 0.5em; color:blue;}
+h1#est{letter-spacing: 2.5em; color:pink; text-align: center; }
+
+h2{
+	text-align: center;
+	
+}
